@@ -14,7 +14,8 @@ async function main() {
   console.log("Pokemon deployed to:", pokemon.address);
 }
 
-use async/await everywhere
+
+
 
 main()
   .then(() => process.exit(0))
